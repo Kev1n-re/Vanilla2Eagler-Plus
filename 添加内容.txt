@@ -4,7 +4,7 @@ Vanilla2Eagler (v2e) 工具添加内容
 我： Kev1n-re / Sandwhich / MC晓盟欣
 我的B站： https://space.bilibili.com/3546651146849031
 
-***添加内容***
+# 添加内容
 
 1.添加了"开共享世界房间"中的"原版服务器地址"设置
 
