@@ -1,0 +1,50 @@
+{
+  "bindHost": "0.0.0.0",
+  "bindPort": 25565,
+  "motd": "Vanilla2Eagler Proxy",
+  "maxPlayers": 32767,
+  "servers": [],
+  "eaglerServer": {
+    "url": "",
+    "host": "127.0.0.1",
+    "port": 8080,
+    "path": "/",
+    "tls": false
+  },
+  "relay": {
+    "enabled": false,
+    "url": "ws://127.0.0.1:12345",
+    "code": "",
+    "username": null,
+    "rejectUnauthorized": true,
+    "retryCount": 3
+  },
+  "forceUsername": null,
+  "skinPreset": 0,
+  "capePreset": 0,
+  "skinModel": 0,
+  "customSkin": null,
+  "customCape": null,
+  "customSkinPacket": null,
+  "customCapePacket": null,
+  "customSkinPacketV3": null,
+  "customSkinPacketV4": null,
+  "skinPacketFormat": 2,
+  "skinPacketABGR": false,
+  "handshakeTimeout": 60000,
+  "debug": true,
+  "webui": {
+    "enabled": true,
+    "host": "0.0.0.0",
+    "port": 3000,
+    "randomPort": true,
+    "exitOnUiClose": true,
+    "exitGraceMs": 1
+  },
+  "mineskin": {
+    "enabled": true,
+    "apiKey": "",
+    "publicBaseUrl": "",
+    "secretSkins": false
+  }
+}
